@@ -1,3 +1,5 @@
+Ce README est en français. Pour la version anglaise, voir [README_en.md](README_en.md).
+
 # Football Analytics — Analyse pour le Football Professionnel
 
 ## Contexte du Projet
