@@ -1,0 +1,21 @@
+# Data handling
+pandas
+numpy
+
+# Web scraping
+selenium
+
+# Database
+SQLAlchemy
+psycopg2-binary
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Dashboard
+streamlit
+
+# Environment variables
+python-dotenv
