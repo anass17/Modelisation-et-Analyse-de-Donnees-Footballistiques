@@ -22,6 +22,7 @@ Ce projet innovant vise à développer une solution complète d’analyse pour l
 
 ## Structure du Projet
 
+```
 Modelisation-et-Analyse-de-Donnees-Footballistiques/
 │
 ├── data/
@@ -46,6 +47,7 @@ Modelisation-et-Analyse-de-Donnees-Footballistiques/
 ├── requirements.txt                # Dépendances Python
 ├── README.md                       # Documentation du projet en français
 └── README_en.md                    # Documentation du projet en anglais
+```
 
 ---
 
@@ -148,7 +150,7 @@ Réaliser des requêtes SQL pour extraire des informations clés sur les perform
 
 ## Visualisations du projet
 
-### Diagrammes (ERD)
+### Diagramme (ERD)
 ![ERD](https://github.com/user-attachments/assets/b0c16ea4-83c6-452b-8fab-ee163a38b342)
 
 ### Interface Streamlit

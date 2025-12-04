@@ -22,8 +22,9 @@ This innovative project aims to develop a comprehensive solution for professiona
 
 ## Project Structure
 
+```
 Modelisation-et-Analyse-de-Donnees-Footballistiques/
-│
+|
 ├── data/
 │   ├── raw/                  # Raw CSV files from scraping
 │   └── processed/            # Cleaned and standardized data
@@ -46,6 +47,7 @@ Modelisation-et-Analyse-de-Donnees-Footballistiques/
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # French documentation
 └── README_en.md              # English documentation
+```
 
 ---
 
